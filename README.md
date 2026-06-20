@@ -1,1 +1,1 @@
-# enya.stats2026beta
+# enya.stats.beta
